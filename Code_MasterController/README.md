@@ -45,3 +45,4 @@ pip install torch torchvision matplotlib opencv-python pyserial PyQt5
 
 对局结束，一方被将军后，重新摆放好棋子，**按空格键可重新开始对局**。
 
+测试更改
