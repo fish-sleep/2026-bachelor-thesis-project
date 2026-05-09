@@ -44,3 +44,6 @@ pip install torch torchvision matplotlib opencv-python pyserial PyQt5
 用户执红棋，机械臂执黑棋，默认用户先手，用户在落子后，**按空格键确认落子**，机械臂开始决策思考。
 
 对局结束，一方被将军后，重新摆放好棋子，**按空格键可重新开始对局**。
+
+
+测试更改
